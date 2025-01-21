@@ -4,7 +4,7 @@
 
         struct NFT {
             uint256 tokenId;
-            string name;
+            string name;    
             address collection;
             address owner;
             uint256 collectionId;
